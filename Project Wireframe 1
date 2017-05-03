@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<head>
+<p>
+    <H1>PRACTICE</H1>
+    <H2><em>PLAY</em>
+    </H2>
+    </p><H3>CREATE A PROFILE</H3>
+<form action="/signup" method="POST">
+  <p>
+    <label>First name</label>
+    <input type="text" value="first_name">
+  </p>
+  <p>
+    <label>Last name</label>
+    <input type="text" value="last_name">
+  </p>
+  <p>
+    <label>Email</label>
+    <input type="email" value="email">
+  </p>
+  <p>
+    <label>Phone number</label>
+    <input type="tel" value="phone">
+  </p>
+  <p>
+    <label>Password</label>
+    <input type="password" value="password">
+  </p>
+  <p>
+    <label>Confirm your password</label>
+    <input type="password" value="password_confirm">
+  </p>
+  <p>
+    </p></form></head>
+<H4>AUDIT</H4>
+<p>
+<H1>
+    Whats in the game?</H1>
+<ul>
+<li>Model UN</li>
+<li>debate team</li>
+<li>imprompteau</li>
+<li>Sourcewar</li>
+</ul>
+</p>
+
+
